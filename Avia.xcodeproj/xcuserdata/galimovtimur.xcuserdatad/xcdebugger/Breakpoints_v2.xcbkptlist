@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AA6A6E69-B3A4-4C81-A7AD-4C09653EA6E9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90C13B59-72BA-46D3-A49B-AC561F95C00A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Avia/SearchResultFetcher/SearchResultFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "fetchSearchResult(from:to:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "90C13B59-72BA-46D3-A49B-AC561F95C00A - f9d8e5b71fc495d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;Avia.SearchResultDTO, Avia.HTTPError&gt;) -&gt; () in closure #1 () -&gt; () in Avia.SearchResultFetcher.fetchSearchResult(from: Avia.City, to: Avia.City, completion: (Swift.Result&lt;Avia.SearchResult, Avia.HTTPError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Avia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/galimovtimur/Documents/Avia/Avia/SearchResultFetcher/SearchResultFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "90C13B59-72BA-46D3-A49B-AC561F95C00A - f9d8e5b71fc495d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;Avia.SearchResultDTO, Avia.HTTPError&gt;) -&gt; () in closure #1 () -&gt; () in Avia.SearchResultFetcher.fetchSearchResult(from: Avia.City, to: Avia.City, completion: (Swift.Result&lt;Avia.SearchResult, Avia.HTTPError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Avia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/galimovtimur/Documents/Avia/Avia/SearchResultFetcher/SearchResultFetcher.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "700">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F27C9E99-4027-4D76-B84B-F647EE12EC19"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Avia/SearchResultFetcher/SearchResultFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "fetchSearchResult(from:to:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
